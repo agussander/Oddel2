@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1923" height="976" viewBox="0 0 1923 976">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.937" y1="-0.047" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#00b1ff"/>
+      <stop offset="0.532" stop-color="#60f"/>
+      <stop offset="1" stop-color="#ff00b5"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_242" data-name="Grupo 242" transform="translate(0 -103)">
+    <path id="Trazado_330" data-name="Trazado 330" d="M0,0H1923V976H0Z" transform="translate(1923 1079) rotate(180)" opacity="0.66" fill="url(#linear-gradient)"/>
+    <g id="Grupo_119" data-name="Grupo 119" transform="translate(733.313 -7102.766)">
+      <g id="Grupo_116" data-name="Grupo 116" transform="translate(-648.46 7835.827)" opacity="0.5">
+        <rect id="Rectángulo_95" data-name="Rectángulo 95" width="38.461" height="48.642" rx="5.027" transform="matrix(0.995, -0.103, 0.103, 0.995, 11.249, 247.326)" fill="#fff"/>
+        <rect id="Rectángulo_96" data-name="Rectángulo 96" width="38.461" height="123.303" rx="5.027" transform="matrix(0.995, -0.103, 0.103, 0.995, 77.826, 165.376)" fill="#fff"/>
+        <rect id="Rectángulo_97" data-name="Rectángulo 97" width="291.854" height="15.837" rx="5.027" transform="matrix(0.995, -0.103, 0.103, 0.995, 0, 314.452)" fill="#fff"/>
+        <rect id="Rectángulo_98" data-name="Rectángulo 98" width="38.461" height="195.701" rx="5.027" transform="matrix(0.995, -0.103, 0.103, 0.995, 144.636, 85.677)" fill="#fff"/>
+        <rect id="Rectángulo_99" data-name="Rectángulo 99" width="38.461" height="270.361" rx="5.027" transform="matrix(0.995, -0.103, 0.103, 0.995, 208.963, 3.96)" fill="#fff"/>
+      </g>
+      <g id="Grupo_117" data-name="Grupo 117" transform="translate(-291.302 7547.707)" opacity="0.5">
+        <path id="Trazado_186" data-name="Trazado 186" d="M-123.76,7553.1a77.01,77.01,0,0,1,31.834,104.023,77.009,77.009,0,0,1-104.023,31.835,77.01,77.01,0,0,1-31.834-104.023A77.011,77.011,0,0,1-123.76,7553.1m10.615-19.979a99.549,99.549,0,0,0-134.618,41.2,99.546,99.546,0,0,0,41.2,134.618,99.547,99.547,0,0,0,134.618-41.2,99.547,99.547,0,0,0-41.2-134.618Z" transform="translate(342.351 -7521.467)" fill="#fff"/>
+        <rect id="Rectángulo_100" data-name="Rectángulo 100" width="30.543" height="95.022" transform="translate(121.52 170.928) rotate(27.984)" fill="#fff"/>
+        <rect id="Rectángulo_101" data-name="Rectángulo 101" width="48.642" height="145.927" rx="9.469" transform="translate(68.473 249.063) rotate(27.984)" fill="#fff"/>
+      </g>
+      <g id="Grupo_118" data-name="Grupo 118" transform="translate(-511.062 7558.49)">
+        <path id="Trazado_187" data-name="Trazado 187" d="M-486.5,7564.34l7.016,67.788a3.826,3.826,0,0,0,6.051,2.705l49.027-35.526a3.826,3.826,0,0,0-.336-6.414l-56.043-32.264A3.827,3.827,0,0,0-486.5,7564.34Z" transform="translate(532.311 -7527.18)" fill="#fff" opacity="0.5"/>
+        <circle id="Elipse_7" data-name="Elipse 7" cx="69.004" cy="69.004" r="69.004" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="9" opacity="0.5"/>
+      </g>
+      <path id="Trazado_188" data-name="Trazado 188" d="M-280.013,7321.5H-395.272c-9.925,1.751-16.422,6.931-18,17.024v70.838c1.626,9.349,6,16.637,18,18.2h31.114c4.665,0,6.4.906,8.414,4.57l9,16.095c2.612,5.4,5.647,4.769,8.611,5.166,4.86.061,7.451-2.053,9-5.166l9.588-16.293c2.139-4.334,5.6-4.372,8.415-4.372h31.114c11.983-1.562,15.409-9.429,17.611-18.2v-70.838C-264.287,7330.259-267.808,7323.058-280.013,7321.5Zm-31.963,58.831-24.709,24.709a1.353,1.353,0,0,1-1.916,0l-24.709-24.709a18.783,18.783,0,0,1-5.494-13.313,18.78,18.78,0,0,1,5.494-13.312,18.712,18.712,0,0,1,3.222-2.581c.883-.56,5.115-3.248,10.092-2.914,7.572.508,11.865,7.675,12.259,8.356.406-.689,4.791-7.88,12.45-8.356a17.765,17.765,0,0,1,10.092,2.914,18.7,18.7,0,0,1,3.221,2.581,18.776,18.776,0,0,1,5.494,13.312A18.778,18.778,0,0,1-311.976,7380.331Z" transform="translate(30.86)" fill="#fff" opacity="0.5"/>
+    </g>
+  </g>
+</svg>

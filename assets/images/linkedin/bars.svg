@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="225.978" height="164.163" viewBox="0 0 225.978 164.163">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff57ce"/>
+      <stop offset="0.746" stop-color="#7ca9f6"/>
+      <stop offset="1" stop-color="#60bbff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_116" data-name="Grupo 116" transform="matrix(0.995, 0.105, -0.105, 0.995, 11.147, -50.465)">
+    <rect id="Rectángulo_95" data-name="Rectángulo 95" width="26.78" height="33.868" rx="5.027" transform="matrix(0.995, -0.103, 0.103, 0.995, 7.832, 180.643)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_96" data-name="Rectángulo 96" width="26.78" height="68.048" rx="5.027" transform="matrix(0.995, -0.103, 0.103, 0.995, 56.021, 141.293)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_98" data-name="Rectángulo 98" width="26.78" height="129.003" rx="5.027" transform="matrix(0.995, -0.103, 0.103, 0.995, 101.453, 75.31)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_99" data-name="Rectángulo 99" width="26.78" height="122.099" rx="5.027" transform="matrix(0.995, -0.103, 0.103, 0.995, 152.305, 76.988)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_183" data-name="Rectángulo 183" width="26.78" height="163.876" rx="5.027" transform="matrix(0.995, -0.103, 0.103, 0.995, 192.296, 30.531)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

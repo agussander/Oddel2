@@ -67,17 +67,6 @@ import { t } from '../stores';
                 </div>
             </div>
         </div>
-        <div class="cont">
-            <h2 class="mobileh2">{title5}</h2>
-            <div class="flex">
-                <img src="/images/services/{img5}" alt="{alt5}">
-                <div>
-                    <h2 class="desktoph2">{title5}</h2>
-                    <p class="p">{@html p5}</p>
-                    <button on:click={()=>$goto($t.links.contact)}>{button5}</button>
-                </div>
-            </div>
-        </div>
     {/if}
 </section>
 <section class="end">
@@ -154,6 +143,7 @@ img{
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-size: cover;
+        min-height: 100vh;
     }
     img{
         max-width: 37em;
@@ -177,9 +167,6 @@ img{
         font-size: 1.1em;
         margin-bottom: 3em;
         margin-top: 0;
-    }
-    .hero{
-        min-height: 100vh;
     }
     button{
         box-sizing: content-box;

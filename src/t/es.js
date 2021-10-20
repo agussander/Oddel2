@@ -1,6 +1,7 @@
 export default{
   nav:{
     inicio:'Inicio',
+    in:'LinkedIn',
     web:'Web',
     redes:'Redes y ads',
     com:'Comunicación',
@@ -44,6 +45,8 @@ export default{
     p2:'¿Sabías que con unas pocas estrategias tu negocio puede crecer a gran escala? Con nuestro servicio de redes y Ads vas a llegar a tu público como nunca.',
     title3:'Comunicación visual',
     p3:'¿Queres que tu marca se destaque? Conocé nuestros servicios de comunicación y comenzó a generar una experiencia memorable con tus consumidores',
+    title4:'LinkedIn',
+    p4:'Contacta con los profesionales y las empresas que buscas. Te ofrecemos un servicio profesional de administración de LinkedIn apuntado a conseguir tus objetivos',
     endTitle:'¿Listo para innovar con tu web?',
     endP:'Cuéntanos sobre tu negocio para que podamos asesorarte sin costo',
   },
@@ -102,9 +105,6 @@ export default{
     title4:'Creación, diseño y candelarización de contenidos para tus Redes sociales',
     p4:'Las marcas hoy comunican todo el tiempo y lo hacen a través de sus redes sociales. Este medio, permite una interacción diaria con tus clientes. Es necesario que las empresas tengan desarrollados perfiles en las redes sociales que su target utilizan.<br>Participar, opinar, compartir y recomendar, son algunas de las actividades que las personas aman hacer en las redes sociales. Y si las misma se pueden realizar con tu marca, la fidelización de estos clientes será para siempre<br>La creación de contenido exclusivo y de calidad, y un correcto manejo de los perfiles en las redes sociales, es fundamental para obtener mayor cantidad de seguidores. El equipo de Oddel puede crear ese contenido y administarlo, de modo que tus fans aumenten exponencialmente, y junto con ellos, tus ventas',
     button4:'Quiero que mis redes crezcan',
-    title5:'LinkedIn',
-    p5:'En la red social más importante para las empresa el equipo de ODDEL se capacita día a día para lograr posicionar a tu marca, concretar conexiones directas con proveedores y potenciales clientes de tu sector y promocionar tus productos y/o servicios.<br>LinkedIn, además, facilita el networking con socios estratégicos, da información de la competencia y las ultimas novedades de tu sector.<br>No dejes a tu empresa fuera de esta red social, no la alejes de las últimas tendencias.',
-    button5:'Quiero lanzarme en LinkedIn'
   },
   com:{
     title:'Comunicación visual',
@@ -119,6 +119,33 @@ export default{
     title3:'Video animación y foto',
     p3:'Hay diversas formas de ser disruptivo en el mundo digital, y una de ellas, es hacerlo con acciones de comunicación de alto impacto con mensajes contundentes. Esto se puede transmitir con videos e imágenes.<br>Darle mayor vuelo a tu organización, comunicar sus valores, productos y formas de trabajo con elementos audiovisuales atraerán público, generará interacción y potenciará a tu marca.',
     button3:'Me interesa este servicio',
+  },
+  in:{
+    title:'LinkedIn',
+    sub:'LinkedIn facilita el networking con socios estratégicos, da información de la competencia y las ultimas novedades de tu sector. Conocé como puede crecer nu negocio',
+    button:'Quiero crecer en LinkedIn',
+    sabias: '¿Sabías que Linkedin cuenta con una base global de más de <b>774 millones</b> de usuarios?',
+    alt1: 'Representación del mundo con iconos de personas de negocios',
+    ademas: 'Además, <b>4 de cada 5</b> usuarios de LinkedIn cumplen <b>roles clave e influyentes</b> en la toma de decisión de miles de empresas',
+    ademas_2: 'Por eso, LinkedIn es una de las redes más efectivas para hacer llegar tus productos y servicios a la gente correcta',
+    sabemos: 'Sabemos de LinkedIn Marketing',
+    sabemos_2: 'Siendo una de las únicas empresas en el mercado ofreciendo este servicio, Oddel puede ayudarte a llegar a profesionales relevantes dentro de esta magnífica red social, y de esta manera hacer crecer a tu negocio y red de contactos profesionales.',
+    bullets:{
+      t1:'Date a conocer',
+      p1:'Llama la atención de personas influyentes en la toma de decisiones empresariales',
+      t2:'Genra tráfico hacia tu sitio web',
+      p2:'Haz que potenciales clientes lleguen a tu punto de información y muéstrales tus productos y servicios',
+      t3:'Genera leads',
+      p3:'Utiliza el remarketing y las conexiones a fin de comunicar tu contenido y atraer leads para tu negocio'
+    },
+    optimation:{
+      title:'¿Cómo optimizamos tu perfil?',
+      list_titles:['Creación de perfil','Video institucional', 'Tecto institucional','Banner institucional',
+                  'Especialista part-time', 'Cración y publicación de contenido relevante',
+                  'Presentación de contenido mensual', 'Identificación de potenciales clientes',
+                  'Contacto con clientes y seguimiento', 'Manejo de intracciones y solicitudes'
+                  ]
+    }
   },
   contact:{
     title:'Contactanos',
@@ -149,6 +176,7 @@ export default{
   },
   links:{
     home:'/es/index',
+    in: '/es/linkedin',
     web:'/es/web',
     media:'/es/media-ads',
     com:'/es/comunicacion',

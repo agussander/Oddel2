@@ -20,9 +20,6 @@ const img={
     alt3:'alt3',
     img4:'comunity.png',
     alt4:'community managment',
-    img5:'linkedin.png',
-    alt5:'linkedin',
-    
 }
 </script>
 

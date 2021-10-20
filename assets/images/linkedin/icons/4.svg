@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="181.848" height="90.792" viewBox="0 0 181.848 90.792">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.115" x2="0.908" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ff57ce"/>
+      <stop offset="0.746" stop-color="#7ca9f6"/>
+      <stop offset="1" stop-color="#60bbff"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_276" data-name="Grupo 276" transform="translate(-1050.352 -3817.355)">
+    <g id="Grupo_265" data-name="Grupo 265" transform="translate(1050.352 3817.355)">
+      <path id="Trazado_365" data-name="Trazado 365" d="M242.376,387.792H88.12a13.811,13.811,0,0,1-13.8-13.8V310.8A13.811,13.811,0,0,1,88.12,297H242.376a13.811,13.811,0,0,1,13.8,13.8V374A13.811,13.811,0,0,1,242.376,387.792ZM91.237,310.638a3.275,3.275,0,0,0-3.275,3.275v56.966a3.275,3.275,0,0,0,3.275,3.275H239.259a3.275,3.275,0,0,0,3.275-3.275V313.913a3.275,3.275,0,0,0-3.275-3.275Z" transform="translate(-74.324 -297)" fill="url(#linear-gradient)"/>
+    </g>
+    <circle id="Elipse_23" data-name="Elipse 23" cx="20.263" cy="20.263" r="20.263" transform="translate(1078.539 3841.319)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_180" data-name="Rectángulo 180" width="53.969" height="9.547" transform="translate(1141.275 3847.554)" fill="url(#linear-gradient)"/>
+    <rect id="Rectángulo_181" data-name="Rectángulo 181" width="38.772" height="8.767" transform="translate(1141.275 3871.129)" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

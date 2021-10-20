@@ -8,6 +8,7 @@ import { t } from '../../stores'
     <div class="front"></div>
     <div class="card-cont">
         <ServicesCardDesktop video='render1_1' title={$t.services.title1} text={$t.services.p1} link={$t.links.web}></ServicesCardDesktop>
+        <ServicesCardDesktop video='render4_4' title={$t.services.title4} text={$t.services.p4} link={$t.links.in}></ServicesCardDesktop>
         <ServicesCardDesktop video='render2_2' title={$t.services.title2} text={$t.services.p2} link={$t.links.media}></ServicesCardDesktop>
         <ServicesCardDesktop video='render3_3' title={$t.services.title3} text={$t.services.p3} link={$t.links.com}></ServicesCardDesktop>
     </div>

@@ -14,6 +14,7 @@ export let active = false;
 {#if active}
     <div bind:clientWidth={x} transition:fly={{ x:x, duration: 500, easing:cubicInOut, opacity:1 }} class="card">
         <span on:click={()=>navigate($t.links.home)}>{$t.nav.inicio}</span>
+        <span on:click={()=>navigate($t.links.in)}>{$t.nav.in}</span>
         <span on:click={()=>navigate($t.links.web)}>{$t.nav.web}</span>
         <span on:click={()=>navigate($t.links.media)}>{$t.nav.redes}</span>
         <span on:click={()=>navigate($t.links.com)}>{$t.nav.com}</span>

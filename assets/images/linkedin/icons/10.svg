@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Grupo_274" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 175 133.1" style="enable-background:new 0 0 175 133.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#Trazado_380_00000143613457874210914600000015397530499323656118_);}
+	.st1{fill:url(#Trazado_381_00000057136098809103630720000014395814355301546654_);}
+</style>
+<linearGradient id="Trazado_380_00000003795908085333203140000016292238356166986918_" gradientUnits="userSpaceOnUse" x1="-465.6199" y1="607.8587" x2="-466.385" y2="609.6378" gradientTransform="matrix(138.5187 0 0 -51.3733 64633.8086 31339.0938)">
+	<stop  offset="0.3884" style="stop-color:#FF57CE"/>
+	<stop  offset="0.7464" style="stop-color:#7CA9F6"/>
+	<stop  offset="1" style="stop-color:#60BBFF"/>
+</linearGradient>
+<path id="Trazado_380" style="fill:url(#Trazado_380_00000003795908085333203140000016292238356166986918_);" d="M136.3,44.8
+	l-30.6-20.9c-2.4-1.6-5.6-1-7.2,1.4c-0.6,0.9-0.9,1.9-0.9,3l0,7.7H5c-2.8,0-5,2.2-5,5v16.4c0,2.8,2.2,5,5,5h92.6v6.8
+	c0,2.9,2.3,5.2,5.2,5.2c1,0,2-0.3,2.9-0.9l30.5-20.1c2.4-1.6,3.1-4.8,1.5-7.2C137.3,45.7,136.8,45.2,136.3,44.8z"/>
+<linearGradient id="Trazado_381_00000023258228830537643970000003657533171178851249_" gradientUnits="userSpaceOnUse" x1="-465.5563" y1="607.8864" x2="-466.3214" y2="609.6655" gradientTransform="matrix(138.515 0 0 -51.3753 64632.0547 31399.0234)">
+	<stop  offset="0.4452" style="stop-color:#FF57CE"/>
+	<stop  offset="0.746" style="stop-color:#7CA9F6"/>
+	<stop  offset="1" style="stop-color:#60BBFF"/>
+</linearGradient>
+<path id="Trazado_381" style="fill:url(#Trazado_381_00000023258228830537643970000003657533171178851249_);" d="M2.3,111.3
+	l30.6,20.9c2.4,1.6,5.6,1,7.2-1.4c0.6-0.9,0.9-1.9,0.9-2.9l0-7.7h92.5c2.8,0,5-2.2,5-5V98.7c0-2.8-2.2-5-5-5l0,0H40.9v-6.8
+	c0-2.9-2.3-5.2-5.2-5.2c-1,0-2,0.3-2.9,0.9L2.3,102.7c-2.4,1.6-3.1,4.8-1.5,7.2C1.2,110.4,1.7,110.9,2.3,111.3z"/>
+</svg>

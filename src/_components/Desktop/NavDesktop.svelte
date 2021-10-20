@@ -14,6 +14,7 @@ onMount(async()=>{console.log($page.path)})
     <img src="/images/logo.svg" alt="logo" on:click={()=>$goto($t.links.home)}>
     <div class="links">
         <a class:active={$isActive($t.links.home)} href="{$url($t.links.home)}">{$t.nav.inicio}</a>
+        <a class:active={$isActive($t.links.in)} href="{$url($t.links.in)}">{$t.nav.in}</a>
         <a class:active={$isActive($t.links.web)} href="{$url($t.links.web)}">{$t.nav.web}</a>
         <a class:active={$isActive($t.links.media)} href="{$url($t.links.media)}">{$t.nav.redes}</a>
         <a class:active={$isActive($t.links.com)} href="{$url($t.links.com)}">{$t.nav.com}</a>

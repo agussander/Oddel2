@@ -8,7 +8,7 @@ import {onMount} from 'svelte'
 import {goto,page} from '@roxi/routify'
 
 const setInitialLang=()=>{
-    if(!$langIsSet && navigator.language.substring(0,2)=='es' && $lang=='en'){
+    if(!$langIsSet && navigator.language.substring(0,2)=='es' && !$page.path.includes('/es')){
         $goto('/es'+$page.path);
     }
 }

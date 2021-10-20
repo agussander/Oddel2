@@ -39,8 +39,8 @@ let inp=[];
             <div class="form">
                 <div class="form-subcont">
                     <form action="../../form1.php" method="POST" class="sticky">
-                        <label for="">{$t.form2.l1}</label>
-                        <input type="text" required>
+                        <label for="text">{$t.form2.l1}</label>
+                        <input type="text" name="name" required>
                         <p>{$t.form2.l2}</p>
                         <div class="check">
                             <label class:checked={inp[0]} class="ch b">
@@ -54,10 +54,10 @@ let inp=[];
                             <label class:checked={inp[2]} class="ch b"><input class="ch c" type="checkbox" bind:checked={inp[2]}>{$t.nav.com}</label>
                         </div>
                         <small>{$t.form2.small}</small>
-                        <label for="">{$t.form2.l3}</label>
+                        <label for="message">{$t.form2.l3}</label>
                         <textarea name="message"  cols="30" rows="10"></textarea>
-                        <label for="">{$t.form2.l4}</label>
-                        <input type="text" required>
+                        <label for="mail">{$t.form2.l4}</label>
+                        <input type="text" name="mail" required>
                         <button class="btn-cyan">{$t.form2.button}</button>
                     </form>
                 </div>

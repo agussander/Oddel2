@@ -1,6 +1,7 @@
 export default {
   nav:{
     inicio: 'Home',
+    in:'LinkedIn',
     web: 'Web',
     redes: 'Media & Ads',
     com: 'Communication',
@@ -43,7 +44,9 @@ export default {
     title2:'Social media, SEM and SEO',
     p2:'The goal of online marketing is to raise awareness and visibility. We can help businesses build brand awareness and create a positive online presence for your organization',
     title3:'Visual communication',
-    p3:'We can help your brand stand out from the crowd! Look at our communication services and start making a statement with your clients'
+    p3:'We can help your brand stand out from the crowd! Look at our communication services and start making a statement with your clients',
+    title4:'LinkedIn',
+    p4:'Contacta con los profesionales y las empresas que buscas. Te ofrecemos un servicio profesional de administración de LinkedIn apuntado a conseguir tus objetivos'
   },
   buttons:{
     see:'See more',
@@ -103,9 +106,6 @@ export default {
     title4:'Content creation, design and programming uploads on your social media',
     p4:'Nowadays brands communicate frequently with their audience, mostly through social media. Using different types of media allows you to touch base daily with your clients. This is why it is really important for companies to have proper and professional profiles on social platforms for their target clients to see. Participating, giving opinions, sharing and recommending are some examples of activities that people love doing on social media. By doing these small things, your company can increase the loyalty and engagement of your customers.Quality and engaging content, plus good profile management on your social media are key to reach a better audience and increase the right type of followers on social channels. Oddel´s team can develop this content and manage it for achieving a solid customer base that become fans of your company, and hence sales soar in your business.',
     button4:`Let's grow my media`,
-    title5:'LinkedIn',
-    p5:'Oddel´s team trains constantly to give your business the best possible position on LinkedIn, the business social platform of the world. LinkedIn is becoming the most important social media platform for businesses. Oddel works hard on your LinkedIn to connect with customers, suppliers and other relevant stakeholders in your business. On this networking platform we will be able to advertise your products and service as well as identifying key competitors, strategic partners and up to date information on your market! LinkedIn allows a different type of growth, but it is necessary to recognise this early and do not miss the opportunity!',
-    button5:`Let's get started on LinkedIn`,
   },
   com:{
     title:'Visual communication',
@@ -120,6 +120,33 @@ export default {
     title3:'Video animation and photo',
     p3:'There are several ways to be disruptive in the digital world, and one of them is to make high impact content with strong messages. This can be done through videos and images. Help your business grow, communicate its values, products, and ways of working with audiovisual elements that will attract the audience, generate interaction, and empower your brand.',
     button3:'Enquire about Video and Photo',
+  },
+  in:{
+    title:'LinkedIn',
+    sub:'Linkedin eases networking with strategic partners while providing you valuable competitor´s and market information. Know how your business can grow with this social media.',
+    button:'I want to grow with LinkedIn',
+    sabias: 'Did you know that LinkedIn has a global user base of over <b>774 million</b> people?',
+    alt1: 'A representation of the world with icons of business people all arround',
+    ademas: 'Futhermore, <b>4 out of every 5</b> LinkedIn users in a position to <b>influence crucial business decisions</b>',
+    ademas_2: `That makes LinkedIn one of the most effective ways to get your services and products in front of the right people`,
+    sabemos: 'Grow Your Business with LinkedIn Marketing',
+    sabemos_2: 'Being one of the only companies in the market offering this service, Oddel can help you achieve your goals and grow your business on LinkedIn, putting your product/service in front of the right decision makers',
+    bullets:{
+      t1:'Build Awareness',
+      p1:`Attract the attention of the world's most influential decision-makers`,
+      t2:'Drive Website Traffic',
+      p2:'Send potential customers right to the source for more information about your products and services',
+      t3:'Generate Leads',
+      p3:'Use remarketing and direct connections, in order to get the right content and information across which will convert into leads'
+    },
+    optimation:{
+      title:'How do we optimize your profile?',
+      list_titles:['Profile creation', 'Institutional video','Professional bio',
+                  'Instititional banner', 'Part-time specialist', 'Content creation and upload',
+                  'Monthly content presentations', 'Potential customers identifying',
+                  'Contact and follow-up with clients', 'Interactions and connections request management'
+                  ]
+    }
   },
   contact:{
     title:'Contact us',
@@ -150,6 +177,7 @@ export default {
   },
   links:{
     home:'/index',
+    in: '/linkedin',
     web:'/web',
     media:'/media-ads',
     com:'/communication',

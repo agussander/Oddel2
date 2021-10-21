@@ -46,7 +46,7 @@ export default {
     title3:'Visual communication',
     p3:'We can help your brand stand out from the crowd! Look at our communication services and start making a statement with your clients',
     title4:'LinkedIn',
-    p4:'Contacta con los profesionales y las empresas que buscas. Te ofrecemos un servicio profesional de administración de LinkedIn apuntado a conseguir tus objetivos'
+    p4:'Get to the decision makers of your potential customers with our robust LinkedIn Strategy service. Let us up help you achieve your goals'
   },
   buttons:{
     see:'See more',

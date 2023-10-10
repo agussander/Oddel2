@@ -9,7 +9,7 @@ export default{
   },
   footer:{
     services:{title:'Servicios', p:{p1:'Diseño y desarrollo web',p2:'Social media y Ads', p3:'Comunicación visual'}},
-    others:{title:'Otros', p:{p1:'Contacto', p2:'Trabaja con nosotros'}}
+    others:{title:'Otros', p:{p1:'Contacto'}}
   },
   socialMedia:{
     ig:'oddelmarketing',
